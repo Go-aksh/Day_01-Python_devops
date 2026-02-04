@@ -1,0 +1,5 @@
+2025-01-20 10:01:15 INFO Application started
+2025-01-20 10:01:21 ERROR Database connection failed
+2025-01-20 10:01:25 WARN Retrying database connection
+2025-01-20 10:02:10 ERROR Failed to fetch user data
+2025-01-20 10:03:00 ERROR Timeout while calling external API
